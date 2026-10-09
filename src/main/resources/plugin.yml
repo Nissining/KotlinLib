@@ -1,6 +1,9 @@
 name: KotlinLib
 main: dev.yousa.kotlin.KotlinLib
 version: "1.9.21"
-api: ["1.0.0"]
+api: [ "1.0.0" ]
 description: "Kotlin is better."
 load: STARTUP
+authors:
+  - "ElainaForever"
+  - "Nissining"
